@@ -1,6 +1,6 @@
 import streamlit as st
-from textblob import TextBlob
-import distutils
+#from textblob import TextBlob
+#import distutils
 from autocorrect import Speller
 from language_tool_python import LanguageTool
 import requests
