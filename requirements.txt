@@ -1,5 +1,5 @@
 streamlit==1.24.1
-autocorrect==2.2.0
+autocorrect  # Remove version specification
 language_tool_python==2.8.0
 pandas==2.0.0
 numpy==1.23.5
