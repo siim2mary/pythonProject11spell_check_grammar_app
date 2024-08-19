@@ -3,7 +3,8 @@
 sudo apt-get update
 
 # Install required system packages (if applicable)
-sudo apt-get install -y zlib1g-dev
+#sudo apt-get install -y zlib1g-dev
+sudo apt-get install zlib1g-dev
 
 # Upgrade pip
 #pip install --upgrade pip
