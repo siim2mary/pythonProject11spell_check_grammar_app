@@ -6,4 +6,4 @@ requests
 pyperclip==1.8.2
 nltk==3.8.1
 pandas==1.4.2
-numpy==1.22.4
+numpy
