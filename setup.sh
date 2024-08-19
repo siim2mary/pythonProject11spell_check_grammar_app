@@ -6,6 +6,7 @@ sudo apt-get update
 #sudo apt-get install -y zlib1g-dev
 sudo apt-get install zlib1g-dev
 sudo apt-get install libjpeg-dev
+sudo apt-get install default-jre
 
 # Upgrade pip
 #pip install --upgrade pip
